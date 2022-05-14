@@ -15,7 +15,12 @@
 <body>
 	<nav class="navbar navbar-dark bg-dark">
 		<div class="container">
-			
+			<a class="navbar-brand" href="#">Elecrtic Grid Systems</a>
+			<form class="form-inline">
+				<a href="register.jsp">
+					<button class="btn btn-lg btn-outline-primary" type="button">&nbsp
+						&nbsp SignUp &nbsp &nbsp</button>
+				</a>
 
 			</form>
 		</div>
